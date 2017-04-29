@@ -1,0 +1,20 @@
+{
+  "name": "ptaproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birenjaspal/pta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birenjaspal/pta/issues"
+  },
+  "homepage": "https://github.com/birenjaspal/pta#readme"
+}
